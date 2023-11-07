@@ -12,7 +12,7 @@ endif::[]
 [id='lab-intro']
 = Camel Quarkus - File Split Log XML
 
-Explore, build, test and deploy a Camel X demo application using the Developer Sandbox and OpenShift Dev Spaces.
+An XML route that tokenizes the contents of a CSV file.
 
 This hands-on lab is based on the following blog article in Red Hat Developers:
 
